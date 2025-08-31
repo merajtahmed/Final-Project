@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Simple Message Generator
+ * Plugin Name: : Custom Greeting Message
  * Description: Type a custom message in admin and display it using [view_message] shortcode.
  * Version: 1.1
- * Author: Your Name
+ * Author: Meraj monzur Tahmed
  * License: GPL2
  */
 
